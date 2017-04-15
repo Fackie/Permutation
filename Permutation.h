@@ -3,7 +3,7 @@ using namespace std;
 class permutation
 {
 	/*
-	arthur:		fengchen
+	author:		fengchen
 	time:		2017.4.13
 	function:	generating permutation by 4 different algorithm
 
